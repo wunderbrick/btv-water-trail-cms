@@ -4,4 +4,4 @@ TZ = "America/New_York"
 
 [build]
 publish = "public"
-command = "npm build"
+command = "npm run build"

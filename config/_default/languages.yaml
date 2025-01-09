@@ -20,46 +20,117 @@ en:
     #  link: "/example-page/"
     #github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
-  #menu:
-    #main:
-    #- identifier: "about"
-    #  name: "About"
-    #  url: "/example-page/"
-    #  weight: 1
-    #- identifier: "child-1"
-    #  name: "Example Child Page"
-    #  url: "/example-page/"
-    #  weight: 1
-    #  post: "Nulla consequat massa quis enim. Donec pede justo."
-    #  parent: "about"
-    #- identifier: "child-2"
-    #  name: "Example Child Page"
-    #  url: "/example-page/"
-    #  weight: 2
-    #  post: "Aenean commodo ligula get dolor. Aenean massa."
-    #  parent: "about"
-    #- identifier: "child-3"
-    #  name: "Example External page"
-    #  url: "https://cncf.io?ref=dot-org"
-    #  weight: 3
-    #  post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-    #  parent: "about"
-    #- identifier: "demo-page"
-    #  name: "Demo Page"
-    #  url: "/demo-page/"
-    #  weight: 2
-    #- identifier: "faq"
-    #  name: "FAQs"
-    #  url: "/faq/"
-    #  weight: 3
-    #- identifier: "blog"
-    #  name: "Blog"
-    #  url: "/blog/"
-    #  weight: 4
-    #- identifier: "example"
-    #  name: "External"
-    #  url: "https://cncf.io?ref=dot-org"
-    #  weight: 5
+  menu:
+    main:
+    - identifier: "plan"
+      name: "Plan"
+      weight: 1
+    - identifier: "map-guide"
+      name: "Water Trail Map & Guide"
+      url: "/map-guide/"
+      weight: 1
+      parent: "plan"
+    - identifier: "trips"
+      name: "Recommended Trips"
+      url: "/trips/"
+      weight: 2
+      parent: "plan"
+    - identifier: "levels-gauges"
+      name: "Water Levels & Gauges"
+      url: "/levels-gauges/"
+      weight: 3
+      parent: "plan"
+    - identifier: "hazards"
+      name: "River Hazards"
+      url: "/hazards/"
+      weight: 4
+      parent: "plan"
+    - identifier: "leave-no-trace"
+      name: "Practice Leave No Trace"
+      url: "/leave-no-trace/"
+      weight: 5
+      parent: "plan"
+    - identifier: "bring"
+      name: "What to Bring"
+      url: "/bring/"
+      weight: 6
+      parent: "plan"
+    - identifier: "along-way"
+      name: "Along the Way"
+      url: "/along-way/"
+      weight: 7
+      parent: "plan"
+    - identifier: "rentals-shuttles"
+      name: "Kayak Rentals & Shuttle Services"
+      url: "/rentals-shuttles/"
+      weight: 8
+      parent: "plan"
+    #
+    #
+    #
+    - identifier: "get-involved"
+      name: "Get Involved"
+      weight: 2
+    - identifier: "newsletter"
+      name: "Newsletter"
+      url: "/newsletter/"
+      weight: 1
+      parent: "get-involved"
+    - identifier: "conservation-stewardship"
+      name: "Conservation & Stewardship Activities"
+      url: "/conservation-stewardship/"
+      weight: 2
+      parent: "get-involved"
+    - identifier: "donate"
+      name: "Donate"
+      url: "/donate/"
+      weight: 3
+      parent: "get-involved" 
+    #
+    #
+    #
+    - identifier: "learn"
+      name: "Learn"
+      weight: 3
+    - identifier: "trail"
+      name: "Trail"
+      url: "/trail/"
+      weight: 1
+      parent: "learn" 
+    - identifier: "watershed-river-profiles"
+      name: "Watershed & River Profiles"
+      url: "/watershed-river-profiles/"
+      weight: 2
+      parent: "learn" 
+    - identifier: "nature-wildlife"
+      name: "Nature & Wildlife"
+      url: "/nature-wildlife/"
+      weight: 3
+      parent: "learn"
+    - identifier: "history-culture"
+      name: "History & Culture"
+      url: "/history-culture/"
+      weight: 4
+      parent: "learn"
+    - identifier: "media"
+      name: "Media"
+      url: "/media/"
+      weight: 5
+      parent: "learn"
+    #
+    #
+    #
+    - identifier: "events"
+      name: "Events"
+      url: "/events/"
+      weight: 4
+    #
+    #
+    #
+    - identifier: "contact"
+      name: "contact"
+      url: "/contact/"
+      weight: 5
 #es:
 #  languageName: Spanish
 #  contentDir: content/es

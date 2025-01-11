@@ -33,13 +33,14 @@ Section Length: 9 miles
 Class: Flatwater & Class I  
 Level: Beginner friendly  
 
-
+{{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
 | ------------------------------------- | -------------- | ------------ | ----------- |
  Buckhannon Park (8.5) | Grass carry down | 38.996188, -80.217357 | Approximately 1.7 miles east of Buckhannon on US-48, turn south onto 5th St., then turn left onto Cleveland Ave to the park. | 
 | Pringle Tree Park (12.3) | Grass carry down | 39.018705, -80.207663 | Approximately 1 mile north of Buckhannon on Rt 20/119, turn onto Pringle Tree Park road and continue for 1.5 to the park. | 
 | River Road (13.5) | Concrete ramp  | 39.010624, -80.193247 | Just south of the Rt. 20 and US-48 interchange, follow Morton Ave east and continue along Post Mill Rd for approximately 3 miles. Turn onto River Rd and continue 0.1 mile to the access site. | 
 | Hall Road (17.5) | Concrete ramp | 39.020832, -80.163518 | Just south of the Rt. 20 and US-48 interchange, follow Morton Ave east and continue along Post Mill/Hall Rd for approximately 4.5 miles. |
+{{< /responsive_table >}}
 
 ## Section 3: Hall Road to Boulder (9.5 miles)
 
@@ -50,12 +51,13 @@ Section Length: 9.5 miles
 Class: Class I  
 Level: Beginner friendly  
 
-
+{{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
 | ------------------------------------- | -------------- | ------------ | ----------- |
 | Hall Road (17.5) | Concrete ramp | 39.020832, -80.163518 | Just south of the Rt. 20 and US-48 interchange, follow Morton Ave east and continue along Post Mill/Hall Rd for approximately 4.5 miles.|
 |Hall (Planned Access Site) | Planned 
 | Boulder (27) | Grass carry down | 39.068793, -80.103374 | From Rt 119 near Volga, follow Audra Park Road for 2.5 miles |
+{{< /responsive_table >}}
 
 ## Section 4: Boulder to Philippi (10.8) 
 Downstream of Boulder, the Buckhannon River slowly flows through quiet meanders. Approximately 4 miles downstream of Boulder, the river gradient increases. This section is the most difficult and remote section of the Water Trail and contains Class I and Class II rapids. Only experienced paddlers are advised to paddle this section. This section provides excellent scenic and wildlife viewing opportunities, as well as historical points of interest (two covered bridges). As the river flows through Carrolton, Class I/II rapids continue ¾ mile to the Buckhannon and Tygart River confluence. Downstream of the confluence, the gradient decreases and alternatures through shallow runs and deep pools. Here, the river flows through the tailend of the remote Tygart Gorge. As the river appears in Philippi, a low-head dam appears just upstream of the Philippi Covered Bridge. 
@@ -64,12 +66,13 @@ Section Length: 10.8 miles
 Class: Class I/II  
 Level: Experienced paddlers only  
 
-
+{{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
 | ------------------------------------- | -------------- | ------------ | ----------- |
 | Boulder (27) | Grass Carry Down  | 39.068793, -80.103374 | From Rt 119 near Volga, follow Audra Park Road for 2.5 miles |
 | Philippi Pool (37.5) | Concrete Ramp | 39.149779, -80.04008 | Near the Philippi Covered bridge at the Blue & Grey park, follow the gravel road at the southern end of the parking lot |
 | Philippi Covered Bridge (37.8) | Concrete Ramp | 39.152849, -80.04353 | Located under the Philippi Covered bridge, park at the Blue and Grey park off 119 |
+{{< /responsive_table >}}
 
 
 ## Section 5: Philippi to Arden
@@ -79,12 +82,13 @@ Section Length: 7.2 miles
 Class: Flatwater and Class I/II  
 Level: First 3 miles beginner friendly, last 4 miles experienced paddlers only  
 
-
+{{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
 | ------------------------------------- | -------------- | ------------ | ----------- |
 | Philippi Covered Bridge (37.8) | Concrete ramp | 39.152849, -80.04353 | Located under the Philippi Covered bridge, park at the Blue and Grey park off 119 | 
 | Arden Grade Rd (41.5) | Concrete ramp | 39.189778, -80.016254 | From Main St. in Philippi, turn onto Pike and continue onto Meridan Rd for 1.5 miles, then turn left onto Chestnut Ridge Rd and immediately veer left onto Arden Grade Road. The access site is approximately 2 miles. |
 | Arden (Planned Access Site) | Planned |  |  |
+{{< /responsive_table >}}
 
 
 

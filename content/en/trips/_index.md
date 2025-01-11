@@ -1,6 +1,6 @@
 ---
 title: Buckhannon & Tygart Valley River Water Trail
-description: Learn about the Buckhannon & Tygart Valley River Water Trail suggested trips.
+description: Learn about the Buckhannon & Tygart Valley River Water Trail recommended trips.
 showHeader: false
 ---
 

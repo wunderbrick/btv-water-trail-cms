@@ -1,2 +1,5 @@
 * Images
 https://www.svgrepo.com/svg/38944/river
+
+* webp
+find . -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) -exec sh -c 'cwebp -quiet "$1" -o "${1%.*}.webp"' _ {} \;

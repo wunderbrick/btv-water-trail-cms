@@ -3,8 +3,8 @@
 # Add custom assets relative to /static or via https
 logo_on_white: #"/img/logo-b.svg"
 logo_on_black: #"/img/logo-w.svg"
-custom_js: []
-custom_css: []
+custom_js: [ ]
+custom_css: [ "/css/styles.css" ]
 
 ######################## custom config ####################
 

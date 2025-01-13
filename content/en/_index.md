@@ -4,8 +4,6 @@ description: Buckhannon & Tygart Valley River Water Trail landing page.
 showHeader: false
 ---
 
-{{< img src="/img/Buckhannon-River-near-Tennerton.webp" alt="A picture of the Buckhannon River" >}}
-
 # Discover
 
 {{< intro >}}

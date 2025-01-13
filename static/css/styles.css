@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    background-image: url("/img/Buckhannon-River-near-Tennerton.webp");
+    height: 100vh;
+    align-self: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    text-align: center;
+    color: white;
+}

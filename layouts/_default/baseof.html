@@ -6,6 +6,14 @@
         {{- partial "accessibility.html" . -}}
         {{- partial "header.html" . -}}
 
+        {{ if (eq .Kind "home") }}
+        <div class="hero">
+            <h1 class="text">
+                On the river
+            </h1>
+        </div>
+        {{ end }}
+
         <section id="content" class="container wrap" {{ if .IsPage }}data-pagefind-body{{ end }}>
             {{ if ne .Params.showHeader false }}
             <header>
@@ -15,6 +23,7 @@
                 <h1 class="title">{{ .Title }}</h1>
             </header>
             {{ end }}
+
             {{ if or (eq .Kind "section") (eq .Kind "home") }}
             <div class="content">
                 {{ else }}

@@ -36,3 +36,16 @@ However you chose to enjoy the river, be sure to slow down, relax, and soak in t
 ## Conservation & Stewardship 
 The BTV Water Trail tells an interconnected story of the river and land, its
 flora and fauna, as well as our own heritage and history. We hope the BTV Water Trail helps enhance connection, foster stewardship, and spark appreciation of the natural World. The Water Trail is an outdoor classroom without walls. We invite you to get outside, explore, and connect with nature. 
+
+{{< gradient >}}
+
+{{< columns count=2 >}}
+{{< column >}}
+Column 1
+{{< /column >}}
+{{< column >}}
+Column 2
+{{< /column >}}
+{{< /columns >}}
+
+{{< /gradient >}}

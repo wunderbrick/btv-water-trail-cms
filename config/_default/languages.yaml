@@ -128,7 +128,7 @@ en:
     #
     #
     - identifier: "contact"
-      name: "contact"
+      name: "Contact"
       url: "/contact/"
       weight: 5
 #es:

@@ -10,4 +10,4 @@ showHeader: false
 Sign up for our newsletter to stay connected and up-to-date with happenings around the Water Trail!
 {{< /intro >}}
 
-Coming soon!
+{{< mailchimp >}}

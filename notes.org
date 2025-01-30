@@ -3,4 +3,4 @@ https://www.svgrepo.com/svg/38944/river
 publicdomainpictures.net
 
 * webp
-find . -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) -exec sh -c 'cwebp -quiet "$1" -o "${1%.*}.webp"' _ {} \;
+find . -type f \( -iname '*.png' -o -iname '*.HEIC' -o -iname '*.jpg' -o -iname '*.jpeg' \) -exec sh -c 'cwebp -quiet "$1" -o "${1%.*}.webp"' _ {} \;

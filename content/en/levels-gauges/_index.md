@@ -7,6 +7,9 @@ showHeader: false
 # Water Levels & Gauges
 
 ## Safety First  
+
+{{< diamond >}}
+
 You are responsible for your own safety. Know your abilities and the abilities of your group. The links in the table below are for your reference before heading out on the rivers. Proper planning and alertness to your surroundings are key to safe paddling. 
 
 ## River Levels  

@@ -6,6 +6,8 @@ showHeader: false
 
 # Kayak Rentals & Shuttle Services
 
+{{< img src="/img/IMG_1277.webp" >}}
+
 [Trubie Run Outfitters](https://www.facebook.com/profile.php/?id=100094215428220)  
 Yak Shak  
 Explore WV

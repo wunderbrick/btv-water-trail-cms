@@ -5,3 +5,7 @@ showHeader: false
 ---
 
 # Photos & Other Media
+
+{{< intro >}}
+Coming soon!
+{{</ intro >}}

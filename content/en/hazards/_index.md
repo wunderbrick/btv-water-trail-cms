@@ -6,6 +6,8 @@ showHeader: false
 
 # River Hazards
 
+{{< diamond >}}
+
 {{< intro >}}
 For most of its course, the proposed Water Trail is slow and placid, offering excellent beginner friendly paddle opportunities. However, river users should always remain alert and observant of river conditions. Specific river hazards along the Water Trail include: 
 {{< /intro >}}

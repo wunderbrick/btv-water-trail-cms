@@ -6,6 +6,8 @@ showHeader: false
 
 # Along the Way
 
+{{< img src="/img/IMG_2366.webp" height="100vw">}}
+
 {{< intro >}}
 Along the Water Trail, historical sites and points of interest include:
 {{< /intro >}}
@@ -28,7 +30,13 @@ Along the Water Trail, historical sites and points of interest include:
 | Philippi Covered Bridge | The Philippi covered bridge was one of the oldest covered bridges in the state, but unfortunately the structure burned in 1989 and reconstructed in 1991. The original structure was a double-barreled 286-foot long truss and was completed in 1852. |
 {{< /responsive_table >}}
 
+{{< spacer >}}
+
+{{< img src="/img/Paddlers during RiverFest near Hampton Bridge.webp" height="100vw">}}
+
+{{< intro >}}
 In the vicinity of the Water Trail, historical sites and points of interests include: 
+{{< /intro >}}
 
 {{< responsive_table >}}
 | | |

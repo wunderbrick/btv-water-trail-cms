@@ -6,4 +6,6 @@ showHeader: false
 
 # Contact
 
+{{< intro >}}
 Coming soon!
+{{</ intro >}}

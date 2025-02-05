@@ -30,7 +30,7 @@ Take nothing but pictures and leave only footprints. Leave No Trace is an outdoo
 {{< /intro >}}
 {{< /column >}}
 {{< column >}}
-{{< img src="/img/Buckhannon River_River Rd.webp" height="800px">}}
+{{< img src="/img/Buckhannon River_River Rd.webp" alt="Buckhannon River River Rd" height="800px">}}
 {{< /column >}}
 {{< /columns >}}
 

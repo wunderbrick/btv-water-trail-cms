@@ -25,7 +25,7 @@ keywords:
 
 # Kayak Rentals & Shuttle Services
 
-{{< img src="/img/IMG_1277.webp" >}}
+{{< img src="/img/IMG_1277.webp" alt="Kayaks by an access point on the river" >}}
 
 [Trubie Run Outfitters](https://www.facebook.com/profile.php/?id=100094215428220)  
 Yak Shak  

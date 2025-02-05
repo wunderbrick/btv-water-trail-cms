@@ -23,7 +23,7 @@ keywords:
 To have an enjoyable river experience, there are some items you should always bring on the water.  
 {{< /intro >}}
 
-{{< img src="/img/Hampton Access Site during Riverfest.webp" height="100vw">}}
+{{< img src="/img/Hampton Access Site during Riverfest.webp" alt="Kayaks lined up at a launch point at Hampton Access Site during Riverfest" height="100vw">}}
 
 <!--
 Although not exhaustive, please review this recommended list: 

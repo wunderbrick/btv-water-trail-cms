@@ -26,7 +26,7 @@ keywords:
 The Buckhannon and Tygart Valley River Water Trail is a 45 mile route originating near Sago in Upshur County and ending near Arden in Barbour County. The Water Trail includes approximately 30 miles of the Buckhannon River and 15 miles of the Tygart Valley River. The trail is mostly flatwater with occasional riffles, offering excellent beginner and family friendly routes. The proposed Water Trail flows through peaceful landscapes, quiet meanders, and mature forested landscapes, as well as communities rich in history, including two historic covered bridges. 
 {{< /intro >}}
 
-{{< img src="/img/Buckhannon River _paddler under Hampton Bridge.webp" height="100vw">}}
+{{< img src="/img/Buckhannon River _paddler under Hampton Bridge.webp" alt="A paddler about to go under Hampton Bridge" height="100vw">}}
 
 The BTV Water Trail is officially designated as a WV Water Trail by the WV Recreational Trail Advisory Board. The Water Trail was approved for designation in December 2024 after nearly a year-long planning, assessment, and application process. 
 

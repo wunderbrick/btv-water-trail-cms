@@ -29,9 +29,9 @@ keywords:
 Grab your paddle and your quest for adventure and head to the Buckhannon and Tygart Valley Rivers! Together they form the 45 mile BTV Water Trail, with miles of adventure as the river flows through a forested landscape. Paddle, boat, fish, and explore interesting attractions, where history and culture coincide with nature’s scenic beauty. 
 {{< /intro >}}
 
-{{< img src="/img/Buckhannon River near Tennerton.webp" height="100vh">}}
+{{< img src="/img/Buckhannon River near Tennerton.webp" alt="The Buckhannon River near Tennerton with reeds in the foreground" height="100vh">}}
 
-{{< img src="/img/Section Overview.webp" >}}
+{{< img src="/img/Section Overview.webp" alt="An image of a map of the water trail that highlights the trail's 5 distinct sections" >}}
 
 ## Section 1: Sago to Buckhannon Riverwalk Park
 Length: 7.5 miles  

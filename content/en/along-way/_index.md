@@ -23,7 +23,7 @@ keywords:
 
 # Along the Way
 
-{{< img src="/img/IMG_2366.webp" height="100vw">}}
+{{< img src="/img/IMG_2366.webp" alt="A view of the Philippi Covered Bridge from the water" height="100vw">}}
 
 {{< intro >}}
 Along the Water Trail, historical sites and points of interest include:
@@ -49,7 +49,7 @@ Along the Water Trail, historical sites and points of interest include:
 
 {{< spacer >}}
 
-{{< img src="/img/Paddlers during RiverFest near Hampton Bridge.webp" height="100vw">}}
+{{< img src="/img/Paddlers during RiverFest near Hampton Bridge.webp" alt="Paddlers during Riverfest near the Hampton Bridge" height="100vw">}}
 
 {{< intro >}}
 In the vicinity of the Water Trail, historical sites and points of interests include: 

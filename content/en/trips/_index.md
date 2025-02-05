@@ -9,7 +9,7 @@ showHeader: false
 With 45 miles to explore, here are some suggested paddling trips to get you started on the BTV Water Trail. The recommended trips below showcase excellent flatwater, beginner, and family friend routes. Please note, the estimated time for each section varies greatly depending on water levels and paddler abilities/pace. We estimate a 2-3 mile per hour paddle pace, while also taking river flow characteristics into account.
 {{< /intro >}}
 
-{{< img src="/img/Group paddlers near Riverwalk Park .webp" height="100vw">}}
+{{< img src="/img/Group paddlers near Riverwalk Park .webp" alt="Group paddlers near Riverwalk Park" height="100vw">}}
 
 ## Buckhannon River  
 

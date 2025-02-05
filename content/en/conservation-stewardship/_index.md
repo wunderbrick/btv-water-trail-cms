@@ -28,7 +28,7 @@ keywords:
 Water trails create an incentive to protect water quality for recreational uses and to protect the economic opportunities of increased tourism.   
 {{< /intro >}}
 
-{{< img src="/img/Jack Barker Race & Fun Paddle 2024.webp" height="100vw">}}
+{{< img src="/img/Jack Barker Race & Fun Paddle 2024.webp" alt="Participants in the Jack Barker Race and Fun Paddle 2024" height="100vw">}}
 
 Local pride in the river helps build support for river conservation. Conservation opportunities include but are not limited to:
 - River Clean-ups

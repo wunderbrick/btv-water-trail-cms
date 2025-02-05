@@ -10,12 +10,18 @@ showHeader: false
 Grab your paddle and your quest for adventure and head to the Buckhannon and Tygart Valley Rivers! Together they form the 45 mile BTV Water Trail, with miles of adventure as the river flows through a forested landscape. Paddle, boat, fish, and explore interesting attractions, where history and culture coincide with nature’s scenic beauty. 
 {{< /intro >}}
 
-{{< img src="/img/Buckhannon River near Tennerton.webp" height="100vw">}}
+{{< img src="/img/Buckhannon River near Tennerton.webp" height="100vh">}}
+
+{{< img src="/img/Section Overview.webp" >}}
 
 ## Section 1: Sago to Buckhannon Riverwalk Park
 Length: 7.5 miles  
 Class: Flatwater  
-Level: Beginner friendly  
+Level: Beginner friendly
+
+{{< pdf src="/pdf/Section 1.pdf" width="100%" height="500px" >}}
+
+{{< spacer  >}}
 
 {{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
@@ -35,6 +41,10 @@ Section Length: 9 miles
 Class: Flatwater & Class I  
 Level: Beginner friendly  
 
+{{< pdf src="/pdf/Section 2.pdf" width="100%" height="500px" >}}
+
+{{< spacer  >}}
+
 {{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
 | ------------------------------------- | -------------- | ------------ | ----------- |
@@ -53,6 +63,10 @@ Section Length: 9.5 miles
 Class: Class I  
 Level: Beginner friendly  
 
+{{< pdf src="/pdf/Section 3.pdf" width="100%" height="500px" >}}
+
+{{< spacer  >}}
+
 {{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
 | ------------------------------------- | -------------- | ------------ | ----------- |
@@ -67,6 +81,10 @@ Downstream of Boulder, the Buckhannon River slowly flows through quiet meanders.
 Section Length: 10.8 miles  
 Class: Class I/II  
 Level: Experienced paddlers only  
+
+{{< pdf src="/pdf/Section 4.pdf" width="100%" height="500px" >}}
+
+{{< spacer  >}}
 
 {{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |
@@ -83,6 +101,10 @@ Downstream of Philippi, the river flows through a scenic and flatwater 3 mile st
 Section Length: 7.2 miles  
 Class: Flatwater and Class I/II  
 Level: First 3 miles beginner friendly, last 4 miles experienced paddlers only  
+
+{{< pdf src="/pdf/Section 5.pdf" width="100%" height="500px" >}}
+
+{{< spacer  >}}
 
 {{< responsive_table >}}
 | Access Site (Water Trail Mile Marker) | Type of Access | GPS Location | Description |

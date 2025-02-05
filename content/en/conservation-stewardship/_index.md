@@ -2,6 +2,24 @@
 title: Buckhannon & Tygart Valley River Water Trail
 description: Learn about conservation and stewardship opportunities on the Buckhannon & Tygart Valley River Water Trail.
 showHeader: false
+keywords:
+- Buckhannon
+- Tygart
+- River
+- Water
+- Trail
+- education
+- volunteer
+- recreation
+- outdoors
+- trips
+- tourism
+- events
+- West Virginia
+- conservation
+- stewardship
+- opportunity
+- opportunities
 ---
 
 # Conservation & Stewardship Opportunities 

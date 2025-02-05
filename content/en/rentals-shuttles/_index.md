@@ -2,6 +2,25 @@
 title: Buckhannon & Tygart Valley River Water Trail
 description: Learn about kayak rentals and shuttle services for the Buckhannon & Tygart Valley River Water Trail.
 showHeader: false
+keywords:
+- Buckhannon
+- Tygart
+- River
+- Water
+- Trail
+- education
+- volunteer
+- recreation
+- outdoors
+- trips
+- tourism
+- events
+- West Virginia
+- conservation
+- rentals
+- rental
+- shuttle
+- shuttles
 ---
 
 # Kayak Rentals & Shuttle Services

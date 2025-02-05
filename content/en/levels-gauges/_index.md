@@ -2,6 +2,18 @@
 title: Buckhannon & Tygart Valley River Water Trail
 description: Learn about the Buckhannon & Tygart Valley River Water Trail levels and gauges.
 showHeader: false
+keywords:
+- Buckhannon
+- Tygart
+- River
+- Water
+- Trail
+- education
+- West Virginia
+- hazards
+- safety
+- levels
+- guages
 ---
 
 # Water Levels & Gauges

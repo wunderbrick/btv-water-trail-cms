@@ -2,6 +2,18 @@
 title: Buckhannon & Tygart Valley River Water Trail
 description: Check out events surrounding the Buckhannon & Tygart Valley River Water Trail.
 showHeader: false
+keywords:
+- Buckhannon
+- Tygart
+- River
+- Water
+- Trail
+- recreation
+- outdoors
+- trips
+- tourism
+- events
+- West Virginia
 ---
 
 # Events

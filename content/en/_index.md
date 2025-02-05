@@ -27,8 +27,7 @@ Discover and explore the Buckhannon & Tygart Valley River Water Trail, a 45-mile
 
 Two rivers. Two cities. Two counties. One trail. The Buckhannon & Tygart Valley River Water Trail flows through peaceful landscapes, quiet meanders, and mature forested landscapes, as well as communities rich in history, including two historic covered bridges. Wildlife is plentiful along the entire waterway. The region is rich in social, cultural, and historical heritage. There are a few short sections of Class I/II water for more experienced paddlers to explore. The trail begins near the community of Sago in Upshur County and ends near Arden in Barbour County. The trail flows through the cities of Buckhannon and Philippi.
 
-{{< full-screen-image src="/img/cropped-Buckhannon Halloween Paddle 2024 4.webp" height="800px">}}
-{{< /full-screen-image>}}
+{{< img src="/img/cropped-Buckhannon Halloween Paddle 2024 4.webp" height="800px">}}
 
 ## Public Access 
 There are 11 public access sites along the BTV Water Trail that allow safe access to the riverway. The BTV Water Trail Map & Guide highlights these access sites and other key features along the river. Link: BTV Water Trail Map & Guide. In the coming years, our team of river stewards aim to create additional river access points and improve existing sites. 
@@ -57,7 +56,7 @@ flora and fauna, as well as our own heritage and history. We hope the BTV Water 
 
 {{< spacer 70 >}}
 
-{{< full-screen-image src="/img/shallow-water-texture-gradient.webp" >}}
+{{< cardWrapper src="/img/shallow-water-texture-gradient.webp" >}}
 {{< cards count=3 >}}
 {{< card >}}
 ## Donate
@@ -78,4 +77,4 @@ Sign up for our newsletter
 [Get Informed](/newsletter.html)
 {{< /card >}}
 {{< /cards >}}
-{{< /full-screen-image>}}
+{{< / cardWrapper >}}

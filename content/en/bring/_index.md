@@ -2,6 +2,19 @@
 title: Buckhannon & Tygart Valley River Water Trail
 description: Learn what to bring on the Buckhannon & Tygart Valley River Water Trail.
 showHeader: false
+keywords:
+- Buckhannon
+- Tygart
+- River
+- Water
+- Trail
+- recreation
+- outdoors
+- trips
+- tourism
+- West Virginia
+- bring
+- preparedness
 ---
 
 # What to Bring

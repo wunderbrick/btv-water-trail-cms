@@ -2,6 +2,24 @@
 title: Buckhannon & Tygart Valley River Water Trail
 description: Sign up for the Buckhannon & Tygart Valley River Water Trail newsletter.
 showHeader: false
+keywords:
+- Buckhannon
+- Tygart
+- River
+- Water
+- Trail
+- education
+- volunteer
+- recreation
+- outdoors
+- trips
+- tourism
+- events
+- West Virginia
+- conservation
+- newsletter
+- in touch
+- up to date
 ---
 
 # Newsletter

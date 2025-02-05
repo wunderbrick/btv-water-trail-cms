@@ -1,7 +1,22 @@
 ---
 title: Buckhannon & Tygart Valley River Water Trail
-description: Buckhannon & Tygart Valley River Water Trail landing page.
+description: Learn all about the Buckhannon & Tygart Valley River Water Trail—trips, events, volunteer opportunities, and much more.
 showHeader: false
+keywords:
+- Buckhannon
+- Tygart
+- River
+- Water
+- Trail
+- education
+- volunteer
+- recreation
+- outdoors
+- trips
+- tourism
+- events
+- West Virginia
+- conservation
 ---
 
 # Discover
@@ -42,7 +57,7 @@ flora and fauna, as well as our own heritage and history. We hope the BTV Water 
 
 {{< spacer 70 >}}
 
-{{< full-screen-image src="/img/shallow-water-texture-gradient.webp" height="600px">}}
+{{< full-screen-image src="/img/shallow-water-texture-gradient.webp" >}}
 {{< cards count=3 >}}
 {{< card >}}
 ## Donate

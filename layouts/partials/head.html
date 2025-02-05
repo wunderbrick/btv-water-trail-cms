@@ -8,6 +8,8 @@
     <title>{{ $title }}</title>
     <meta name="description" content="{{ $description }}" />
 
+    <meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
+
     {{ if .Params.noindex }}
     <meta name="robots" content="noindex, nofollow" />
     {{ end }}

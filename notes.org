@@ -6,12 +6,12 @@ publicdomainpictures.net
 https://github.com/sytranvn/hugo-pdf/tree/master - MIT
 
 * TODO
+- are these people cool with having their images on the site?
 - alt tags
 - accessibility checkup
 - more images for specific events?
 - donations
 - contact form - which email address should messages go to?
-- are these people cool with having their images on the site?
 
 * webp
 find . -type f \( -iname '*.png' -o -iname '*.HEIC' -o -iname '*.jpg' -o -iname '*.jpeg' \) -exec sh -c 'cwebp -quiet "$1" -o "${1%.*}.webp"' _ {} \;

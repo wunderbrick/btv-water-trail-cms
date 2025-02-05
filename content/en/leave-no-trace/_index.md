@@ -76,7 +76,7 @@ Respect other visitors and protect the quality of their experience. Let natureâ€
 {{< spacer >}}
 
 {{< intro >}}
-Learn more at: https://lnt.org/  
+Learn more at [Leave No Trace]("https://lnt.org/")  
 {{< /intro >}}
 
 In addition to Leave No Trace principles, you can go green in other ways to help protect the river. The choices you make every day impact rivers indirectly and directly, in ways you may not even think about. Consider living an environmentally conscious lifestyle to lessen these impacts and to free up extra cash for that new boat or paddle. Carpool to reduce your greenhouse gas emissions and their effects on acid precipitation and global warming. Conserve water in your home, yard, and garden to keep aquifers and rivers more fully charged. Reduce your electricity consumption to reduce your support of mining and hydro development. Recycle to decrease national energy needs, mining, and logging.

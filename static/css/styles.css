@@ -28,21 +28,6 @@ body {
     color: white;
 }
 
-/*
-full-bleed doesn't really work as long as there's a max-width or content size set on container
-*/
-.full-bleed {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
 .card-wrapper {
   display: flex;
   flex-direction: column;
@@ -56,5 +41,25 @@ full-bleed doesn't really work as long as there's a max-width or content size se
   padding-right: 24px;
   padding-left: 24px;
   border-radius: 10px;
+}
+
+.container .test {
+  display:flex;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+	width: 100vw;
+	height: 100vh;
+	position:relative;
+  left: calc(-50vw + 50%);
+}
+
+@media (max-width: 768px) {
+  .container .test{
+    height: 50vh;
+  }
 }
 

@@ -89,3 +89,27 @@ Sign up for our newsletter
 {{< /card >}}
 {{< /cards >}}
 {{< / cardWrapper >}}
+
+{{< full-screen-image src="/img/cropped-City of Philippi Covered Bridge Aug 2024.webp">}}
+{{< cards count=3 >}}
+{{< card >}}
+## Donate
+Contribute to your water trail
+{{< spacer >}}
+[Donate](/donate.html)
+{{< /card >}}
+{{< card >}}
+## Volunteer
+Conservation and stewardship
+{{< spacer >}}
+[Volunteer](/conservation-stewardship.html)
+{{< /card >}}
+{{< card >}}
+## Learn
+Sign up for our newsletter
+{{< spacer >}}
+[Get Informed](/newsletter.html)
+{{< /card >}}
+{{< /cards >}}
+{{< /full-screen-image >}}
+

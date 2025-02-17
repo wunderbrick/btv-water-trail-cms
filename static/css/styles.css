@@ -42,7 +42,7 @@ body {
   border-radius: 10px;
 }
 
-.container .full-width-image {
+.container .full-screen-image {
   display: flex;
   flex-direction: column;
   min-height: 50px;
@@ -53,18 +53,19 @@ body {
   align-items: center;
   justify-content: center;
 	width: 100vw;
-	position:relative;
+  height: 100vh;
   left: calc(-50vw + 50%);
   max-width: 100vw;
 }
 
 @media (max-width: 768px) {
-  .container .full-width-image {
-    height: 100vh;
+  .container .full-screen-image {
+    height: 50vh;
   }
 }
 
-.container .full-background {
+/* This is for when we should not resize the image so e.g. cards don't overflow. TODO: make a better way to prevent overflow. This works well for e.g. gradient images but isn't great for images that really need a resize on smaller screens. Note the absence of the height property here vs. the regular resize class above. */
+.container .full-screen-image-no-resize {
   display: flex;
   flex-direction: column;
   min-height: 50px;
@@ -75,8 +76,34 @@ body {
   align-items: center;
   justify-content: center;
 	width: 100vw;
-	position:relative;
   left: calc(-50vw + 50%);
   max-width: 100vw;
 }
 
+.container .full-screen-background {
+  display: flex;
+  flex-direction: column;
+  min-height: 50px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+	width: 100vw;
+  left: calc(-50vw + 50%);
+  max-width: 100vw;
+}
+
+.bleed-container {
+
+}
+
+.bleed-content {
+
+}
+
+/* This is to combat what seems like a bug in the Markdown parser that generates a pre and inner code tag that just has a /div inside when I use the % in the shortcode tags. */
+pre {
+  display: none;
+}

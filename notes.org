@@ -16,7 +16,16 @@ https://github.com/sytranvn/hugo-pdf/tree/master - MIT
 * webp
 find . -type f \( -iname '*.png' -o -iname '*.HEIC' -o -iname '*.jpg' -o -iname '*.jpeg' \) -exec sh -c 'cwebp -quiet "$1" -o "${1%.*}.webp"' _ {} \;
 
+* logo hex vals
+#3970C3 - dark blue
+#51AEE5 - lighter blue
+#FFDE59 - gold
+#1C935B - dark green in bush
+#01BF63 - lighter green
+#20935C - dark green in rim
 
+
+TODOs
 
 map and guide as own dropdown
 
@@ -36,13 +45,9 @@ bios for stewardship page - promote next year's cohort with a landing page
 towards bottom of home page or own page: local businesses buy promotion
 
 
-take down stewardship image
-
-
 events page will link to sub-events page
 
 
 events will need specific year landing pages and generic pages
 
 
-invoice

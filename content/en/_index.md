@@ -47,8 +47,7 @@ Two rivers. Two cities. Two counties. One trail. The Buckhannon & Tygart Valley 
 {{< /full-screen-image >}}
 
 ## Public Access 
-
-There are 11 public access sites along the BTV Water Trail that allow safe access to the riverway. The BTV Water Trail Map & Guide highlights these access sites and other key features along the river. Link: BTV Water Trail Map & Guide. In the coming years, our team of river stewards aim to create additional river access points and improve existing sites. 
+There are 11 public access sites along the BTV Water Trail that allow safe access to the riverway. The [BTV Water Trail Map & Guide](/map-guide) highlights these access sites and other key features along the river. In the coming years, our team of river stewards aim to create additional river access points and improve existing sites. 
 
 ## Water Levels
 Water levels along the BTV Water Trail fluctuate throughout the year, as well as different sections of the river. The river responds quickly to rain events. High water levels change river conditions and flow patterns and may make it unsuitable for inexperienced paddlers. The Water Trail is also impacted by drought. The section from Hampton to Buckhannon Riverwalk park can be floated in drought conditions, while most other sections may be scrappy. Visit the USGS Stream Gauge to check Water Levels. 

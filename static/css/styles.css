@@ -25,6 +25,14 @@ body {
 .text {
     text-align: center;
     color: white;
+    /* color: #FFDE59; */ 
+    /* background: rgba(81, 174, 229, 0.5); */
+}
+
+@media (max-width: 768px) {
+  .text {
+     display: none;
+  }
 }
 
 .card-wrapper {

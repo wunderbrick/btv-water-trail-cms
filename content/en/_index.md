@@ -66,7 +66,7 @@ Water levels along the BTV Water Trail fluctuate throughout the year, as well as
 The BTV Water Trail offers beautiful scenery, with miles of beginner and family friendly flat water. Other sections have exciting Class I and Class II rapids. Be sure to practice safe boating practices: wear a personal floatation device, check river conditions prior to floating, and have a guide and map on any new section you want to explore.
 
 ## Fishing
-Smallmouth bass, crappie, sunfish, suckers and even muskie call the Buckhannon and Tygart Rivers home. Any fisher over 14 years old will need a WVDNR fishing license. To obtain a license on-line, go to wvfish.com.
+Smallmouth bass, crappie, sunfish, suckers and even muskie call the Buckhannon and Tygart Rivers home. Any fisher over 14 years old will need a [WVDNR fishing license.](https://www.wvhunt.com/login)
 
 {{< columns count=2 >}}
 {{< column >}}

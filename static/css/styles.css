@@ -1,12 +1,13 @@
 body {
     margin: 0;
+    overflow-x: hidden;
 }
 
 .hero {
     display: flex;
     flex-direction: column;
     background-image: url("/img/cropped-City of Philippi Covered Bridge Aug 2024.webp");
-    height: 100vh;
+    height: 99vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +62,7 @@ body {
   align-items: center;
   justify-content: center;
 	width: 100vw;
-  height: 100vh;
+  height: 99vh;
   left: calc(-50vw + 50%);
   max-width: 100vw;
 }

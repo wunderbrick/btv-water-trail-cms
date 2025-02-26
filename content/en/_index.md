@@ -114,3 +114,5 @@ Sign up for our newsletter
 {{< /card >}}
 {{< /cards >}}
 {{< /full-screen-image-no-resize  >}}
+
+<!-- note -->

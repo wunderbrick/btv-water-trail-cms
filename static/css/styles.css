@@ -112,7 +112,7 @@ body {
 
 }
 
-/* This is to combat what seems like a bug in the Markdown parser that generates a pre and inner code tag that just has a /div inside when I use the % in the shortcode tags. */
+/* This is to combat what seems like a bug in the Markdown parser that generates a pre and inner code tag that just has a /div inside when I use the % in the shortcode tags. NOTE: indentation in a shortcode nested can cause the pre, code issue. Flatten to avoid.  */
 pre {
   display: none;
 }

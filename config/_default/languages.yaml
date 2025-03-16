@@ -12,12 +12,12 @@ en:
     #  help_text: "Accessibility Statement"
     #  help_url: "/example-page/"
     #### calls to action ###
-    #main_cta:
-    #  text: "Join"
-    #  link: "/example-page/"
-    #footer_cta:
-    #  text: "Join us"
-    #  link: "/example-page/"
+    main_cta:
+      text: "Get the newsletter"
+      link: "/newsletter/"
+    footer_cta:
+      text: "Get the newsletter"
+      link: "/newsletter/"
     #github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:

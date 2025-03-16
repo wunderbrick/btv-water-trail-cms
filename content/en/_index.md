@@ -19,7 +19,15 @@ keywords:
 - conservation
 ---
 
+
+{{% columns count=2 %}}
+{{% column %}}
 # Discover WV's Newest Water Trail
+{{% /column %}}
+{{% column %}}
+{{% img src="/img/Section Overview.webp" alt="An image of a map of the water trail that highlights the trail's 5 distinct sections" %}}
+{{% /column %}}
+{{% /columns %}}
 
 {{< full-screen-image src="/img/Janna Vaught Carrollton Covered Bridge.webp" alt="The Carrollton Covered Bridge, photo by Janna Vaught" >}}
 {{< /full-screen-image >}}

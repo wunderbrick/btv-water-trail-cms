@@ -1,6 +1,6 @@
 ---
 title: Buckhannon & Tygart Valley River Water Trail
-description: Learn about the Buckhannon & Tygart Valley River Water Trail levels and gauges.
+description: Learn about the Buckhannon & Tygart Valley River Water Trail hazards and water levels.
 showHeader: false
 keywords:
 - Buckhannon
@@ -13,19 +13,27 @@ keywords:
 - hazards
 - safety
 - levels
-- guages
 ---
 
-# Water Levels & Gauges
+# Hazards & Water Levels
 
 ## Safety First  
 
-<!-- {{< diamond >}} -->
+{{< intro >}} 
+You are responsible for your own safety. Know your abilities and the abilities of your group. Proper planning and alertness to your surroundings are key to safe paddling. For most of its course, the proposed Water Trail is slow and placid, offering excellent beginner friendly paddle opportunities. However, there are sections of the river that have Class I, Class II, and Class II+ rapids. River users should always remain alert and observant of river conditions.{{< /intro >}} 
 
-You are responsible for your own safety. Know your abilities and the abilities of your group. The links in the table below are for your reference before heading out on the rivers. Proper planning and alertness to your surroundings are key to safe paddling. 
+Please be aware of these specific river hazards: 
+- Downstream of the Sago Bridge, a ¾ mile section of Class I/II rapids. 
+- Buckhannon Dams: Two low-head dams on the Buckhannon River in the City of Buckhannon located between the Riverwalk Park and North Buckhannon Park. We recommend all paddlers take out at Riverwalk Park, then drive to North Buckhannon Park to continue their paddle.
+- Rapids near Carrollton and the Buckhannon/Tygart River Confluence: There are 2 miles of Class II+ rapids starting 0.75 miles upstream of Carrollton and continuing to Tygart Junction.
+- Philippi Dam: Located just upstream of the Philippi Covered Bridge. Portage the dam on river right, or exit the river at the Philippi Dam Pool Boat Ramp and avoid paddling over or near the dam. 
+- Upstream of Arden Bridge, a 1.5 mile of Class I/II rapids upstream of the bridge that only experienced paddlers should attempt. 
+- The Water Trail ends at Arden Bridge. Downstream of the bridge, the Tygart Valley River continues through extreme whitewater. 
 
-## River Levels  
-River conditions can vary greatly along the 45-mile Riverway due to precipitation, season, dams, impoundments, and other features. The river responds quickly to rain events. High water levels change river conditions and flow patterns and may make it unsuitable for inexperienced paddlers. The Water Trail is also impacted by drought, which creates shallow scrappy conditions for paddlers.  
+## Water Levels  
+{{< intro >}} 
+River conditions can vary greatly along the water trail due to precipitation, season, dams, impoundments, and other features. The river responds quickly to rain events. High water levels change river conditions and flow patterns and may make it unsuitable for inexperienced paddlers. The Water Trail is also impacted by drought, which creates shallow scrappy conditions for paddlers.  
+{{< /intro >}} 
 
 River users should always:  
 - Consult the U.S. Geological Survey (USGS) website (links in table below);

@@ -26,7 +26,7 @@ en:
       name: "Plan"
       weight: 1
     - identifier: "map-guide"
-      name: "Water Trail Map & Guide"
+      name: "Access Sites, Maps, & Guide"
       url: "/map-guide/"
       weight: 1
       parent: "plan"
@@ -36,34 +36,24 @@ en:
       weight: 2
       parent: "plan"
     - identifier: "levels-gauges"
-      name: "Water Levels & Gauges"
+      name: "Hazards & Water Levels"
       url: "/levels-gauges/"
       weight: 3
-      parent: "plan"
-    - identifier: "hazards"
-      name: "River Hazards"
-      url: "/hazards/"
-      weight: 4
       parent: "plan"
     - identifier: "leave-no-trace"
       name: "Practice Leave No Trace"
       url: "/leave-no-trace/"
-      weight: 5
-      parent: "plan"
-    - identifier: "bring"
-      name: "What to Bring"
-      url: "/bring/"
-      weight: 6
+      weight: 4
       parent: "plan"
     - identifier: "along-way"
       name: "Along the Way"
       url: "/along-way/"
-      weight: 7
+      weight: 5
       parent: "plan"
     - identifier: "rentals-shuttles"
       name: "Kayak Rentals & Shuttle Services"
       url: "/rentals-shuttles/"
-      weight: 8
+      weight: 6
       parent: "plan"
     #
     #
@@ -77,7 +67,7 @@ en:
       weight: 1
       parent: "get-involved"
     - identifier: "conservation-stewardship"
-      name: "Conservation & Stewardship Activities"
+      name: "Conservation & Stewardship Opportunities"
       url: "/conservation-stewardship/"
       weight: 2
       parent: "get-involved"
@@ -91,32 +81,8 @@ en:
     #
     - identifier: "learn"
       name: "Learn"
+      url: "/learn/"
       weight: 3
-    - identifier: "trail"
-      name: "Trail"
-      url: "/trail/"
-      weight: 1
-      parent: "learn" 
-    - identifier: "watershed-river-profiles"
-      name: "Watershed & River Profiles"
-      url: "/watershed-river-profiles/"
-      weight: 2
-      parent: "learn" 
-    - identifier: "nature-wildlife"
-      name: "Nature & Wildlife"
-      url: "/nature-wildlife/"
-      weight: 3
-      parent: "learn"
-    - identifier: "history-culture"
-      name: "History & Culture"
-      url: "/history-culture/"
-      weight: 4
-      parent: "learn"
-    - identifier: "media"
-      name: "Media"
-      url: "/media/"
-      weight: 5
-      parent: "learn"
     #
     #
     #

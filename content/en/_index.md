@@ -67,9 +67,6 @@ There are 11 public access sites along the BTV Water Trail that allow safe acces
 {{< /column >}}
 {{< /columns >}}
 
-## Water Levels
-Water levels along the BTV Water Trail fluctuate throughout the year, as well as different sections of the river. The river responds quickly to rain events. High water levels change river conditions and flow patterns and may make it unsuitable for inexperienced paddlers. The Water Trail is also impacted by drought. The section from Hampton to Buckhannon Riverwalk park can be floated in drought conditions, while most other sections may be scrappy. Visit the USGS Stream Gauge to check Water Levels. 
-
 ## Floating by Canoe, Kayak, SUP, or Tube 
 The BTV Water Trail offers beautiful scenery, with miles of beginner and family friendly flat water. Other sections have exciting Class I and Class II rapids. Be sure to practice safe boating practices: wear a personal floatation device, check river conditions prior to floating, and have a guide and map on any new section you want to explore.
 
@@ -80,7 +77,7 @@ Smallmouth bass, crappie, sunfish, suckers and even muskie call the Buckhannon a
 {{< column >}}
 ## Relax & Slow Down 
 {{< intro >}}
-However you chose to enjoy the river, be sure to slow down, relax, and soak in the scenery. Life along the river is an everchanging play: breezes flow through the tree and brush across your skin, sunlight changes as clouds dance overhead, sounds echo as birds call out and wildlife splashes in the water. The BTV Water Trail wants you to join in and enjoy the peaceful setting. And needs you to preserve and protect these unique rivers and habitats. 
+However you chose to enjoy the river, be sure to slow down, relax, and soak in the scenery. Life along the river is an ever changing play: breezes flow through the tree and brush across your skin, sunlight changes as clouds dance overhead, sounds echo as birds call out and wildlife splashes in the water. The BTV Water Trail wants you to join in and enjoy the peaceful setting. And needs you to preserve and protect these unique rivers and habitats. 
 {{< / intro >}}
 {{< /column >}}
 {{< column >}}

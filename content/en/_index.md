@@ -25,7 +25,7 @@ keywords:
 # Discover WV's Newest Water Trail
 {{< /column >}}
 {{< column >}}
-{{< img-link src="/img/Section Overview.webp" alt="An image of a map of the water trail that highlights the trail's 5 distinct sections" width="auto" height="auto" link="/map-guide/" >}}
+{{< img-link src="/img/Section Overview.webp" alt="An image of a map of the water trail that highlights the trail's 5 distinct sections" width="auto" height="auto" link="/access-maps-guides/" >}}
 {{< /column >}}
 {{< /columns >}}
 
@@ -59,7 +59,7 @@ Two rivers. Two cities. Two counties. One trail. The Buckhannon & Tygart Valley 
 {{< column >}}
 ## Public Access 
 {{< intro >}}
-There are 11 public access sites along the BTV Water Trail that allow safe access to the riverway. The [BTV Water Trail Map & Guide](/map-guide) highlights these access sites and other key features along the river. In the coming years, our team of river stewards aim to create additional river access points and improve existing sites. 
+There are 11 public access sites along the BTV Water Trail that allow safe access to the riverway. The [BTV Water Trail Map & Guide](/access-maps-guides) highlights these access sites and other key features along the river. In the coming years, our team of river stewards aim to create additional river access points and improve existing sites. 
 {{< / intro >}}
 {{< /column >}}
 {{< column >}}
@@ -109,7 +109,7 @@ Contribute to your water trail
 ## Volunteer
 Conservation and stewardship
 {{< spacer >}}
-[Volunteer](/conservation-stewardship)
+[Volunteer](/stewardship)
 {{< /card >}}
 {{< card >}}
 ## Learn

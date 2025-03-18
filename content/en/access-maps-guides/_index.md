@@ -1,6 +1,6 @@
 ---
 title: Buckhannon & Tygart Valley River Water Trail
-description: Learn about the Buckhannon & Tygart Valley River Water Trail route and access sites with maps.
+description: Learn about the Buckhannon & Tygart Valley River Water Trail route and access sites with maps and guides.
 showHeader: false
 keywords:
 - Buckhannon
@@ -25,7 +25,7 @@ keywords:
 - sites
 ---
 
-# Access Sites, Maps, & Guide
+# Access Sites, Maps, & Guides
 
 {{< intro >}}
 Grab your paddle and your quest for adventure and head to the Buckhannon and Tygart Valley Rivers! Together they form the 45 mile BTV Water Trail, with miles of adventure as the river flows through a forested landscape. Paddle, boat, fish, and explore interesting attractions, where history and culture coincide with nature’s scenic beauty. 

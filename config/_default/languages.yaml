@@ -25,9 +25,9 @@ en:
     - identifier: "plan"
       name: "Plan"
       weight: 1
-    - identifier: "map-guide"
-      name: "Access Sites, Maps, & Guide"
-      url: "/map-guide/"
+    - identifier: "access-maps-guides"
+      name: "Access Sites, Maps, & Guides"
+      url: "/access-maps-guides/"
       weight: 1
       parent: "plan"
     - identifier: "trips"
@@ -35,9 +35,9 @@ en:
       url: "/trips/"
       weight: 2
       parent: "plan"
-    - identifier: "levels-gauges"
+    - identifier: "hazards-water-levels"
       name: "Hazards & Water Levels"
-      url: "/levels-gauges/"
+      url: "/hazards-water-levels/"
       weight: 3
       parent: "plan"
     - identifier: "leave-no-trace"
@@ -66,9 +66,9 @@ en:
       url: "/newsletter/"
       weight: 1
       parent: "get-involved"
-    - identifier: "conservation-stewardship"
-      name: "Conservation & Stewardship Opportunities"
-      url: "/conservation-stewardship/"
+    - identifier: "stewardship"
+      name: "Stewardship Opportunities"
+      url: "/stewardship/"
       weight: 2
       parent: "get-involved"
     - identifier: "donate"

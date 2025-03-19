@@ -47,7 +47,7 @@ Two rivers. Two cities. Two counties. One trail. The Buckhannon & Tygart Valley 
 {{< /column >}}
 {{< column >}}
 {{< spacer 5 >}}
-{{< img src="/img/Water Trail Logo.webp" alt="BTV River Water Trail logo featuring a long-legged bird on a branch overhanging a river with greenery on the other side of the river." >}}
+{{< img src="/img/Water Trail Logo-no-background.webp" alt="BTV River Water Trail logo featuring a long-legged bird on a branch overhanging a river with greenery on the other side of the river." >}}
 {{< /column >}}
 {{< /columns >}}
 {{< /full-screen-background >}}

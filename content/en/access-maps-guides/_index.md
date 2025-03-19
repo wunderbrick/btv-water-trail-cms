@@ -31,7 +31,7 @@ keywords:
 Grab your paddle and your quest for adventure and head to the Buckhannon and Tygart Valley Rivers! Together they form the 45 mile BTV Water Trail, with miles of adventure as the river flows through a forested landscape. Paddle, boat, fish, and explore interesting attractions, where history and culture coincide with nature’s scenic beauty. 
 {{< /intro >}}
 
-{{< img src="/img/Buckhannon River near Tennerton.webp" alt="The Buckhannon River near Tennerton with reeds in the foreground" height="100vh">}}
+<!-- {{< img src="/img/Buckhannon River near Tennerton.webp" alt="The Buckhannon River near Tennerton with reeds in the foreground" height="100vh">}} -->
 
 {{<iframe src="https://www.google.com/maps/d/embed?mid=1WTwb7i51DEOVMnNHRpIjOAlgT0VxNvg&ehbc=2E312F" width="640" height="480" title="BTV River Water interactive map via Google Maps">}}
 

@@ -20,9 +20,12 @@ keywords:
 ## Safety First  
 
 {{< intro >}} 
-You are responsible for your own safety. Know your abilities and the abilities of your group. Proper planning and alertness to your surroundings are key to safe paddling. For most of its course, the proposed Water Trail is slow and placid, offering excellent beginner friendly paddle opportunities. However, there are sections of the river that have Class I, Class II, and Class II+ rapids. River users should always remain alert and observant of river conditions.{{< /intro >}} 
+You are responsible for your own safety. Know your abilities and the abilities of your group. Proper planning and alertness to your surroundings are key to safe paddling. For most of its course, the proposed Water Trail is slow and placid, offering excellent beginner friendly paddle opportunities. However, there are sections of the river that have Class I, Class II, and Class II+ rapids. River users should always remain alert and observant of river conditions.
+{{< /intro >}} 
 
-Please be aware of these specific river hazards: 
+{{< intro >}} 
+Please be aware of these specific river hazards:
+{{< /intro >}} 
 - Downstream of the Sago Bridge, a ¾ mile section of Class I/II rapids. 
 - Buckhannon Dams: Two low-head dams on the Buckhannon River in the City of Buckhannon located between the Riverwalk Park and North Buckhannon Park. We recommend all paddlers take out at Riverwalk Park, then drive to North Buckhannon Park to continue their paddle.
 - Rapids near Carrollton and the Buckhannon/Tygart River Confluence: There are 2 miles of Class II+ rapids starting 0.75 miles upstream of Carrollton and continuing to Tygart Junction.

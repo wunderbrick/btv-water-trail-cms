@@ -6,12 +6,13 @@ publicdomainpictures.net
 https://github.com/sytranvn/hugo-pdf/tree/master - MIT
 
 * TODO
-- are these people cool with having their images on the site? no permissions yet
 - alt tags
 - accessibility checkup
 - more images for specific events?
 - donations
 - contact form - which email address should messages go to?
+- responsive footer is hiding links
+- add responsive title for main page
 
 * webp
 find . -type f \( -iname '*.png' -o -iname '*.HEIC' -o -iname '*.jpg' -o -iname '*.jpeg' \) -exec sh -c 'cwebp -quiet "$1" -o "${1%.*}.webp"' _ {} \;
@@ -27,10 +28,10 @@ find . -type f \( -iname '*.png' -o -iname '*.HEIC' -o -iname '*.jpg' -o -iname 
 
 TODOs
 
-map and guide as own dropdown
+map and guide as own dropdown - ask if still want this
 
 
-card with link to map above or below discover on homepage
+DONE - card with link to map above or below discover on homepage
 
 
 for map and guide put all access sites in one table with pics, let the pdfs be the sections. possibly get pics with all access sites and incorporate them into table

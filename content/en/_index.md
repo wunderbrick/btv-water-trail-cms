@@ -23,37 +23,23 @@ keywords:
 {{< columns count=2 >}}
 {{< column >}}
 # Discover WV's Newest Water Trail
+
+Discover and explore the Buckhannon & Tygart Valley River Water Trail, a 45-mile water trail in north-central WV, offering outstanding scenic and recreational opportunities!
+
+Two rivers. Two cities. Two counties. One trail. The Buckhannon & Tygart Valley River Water Trail flows through peaceful landscapes, quiet meanders, and mature forested landscapes, as well as communities rich in history, including two historic covered bridges. Wildlife is plentiful along the entire waterway. The region is rich in social, cultural, and historical heritage. There are a few short sections of Class I/II water for more experienced paddlers to explore. The trail begins near the community of Sago in Upshur County and ends near Arden in Barbour County. The trail flows through the cities of Buckhannon and Philippi.
 {{< /column >}}
 {{< column >}}
 {{< img-link src="/img/Section Overview.webp" alt="An image of a map of the water trail that highlights the trail's 5 distinct sections" width="auto" height="auto" link="/access-maps-guides/" >}}
 {{< /column >}}
 {{< /columns >}}
 
-{{< full-screen-image src="/img/Janna Vaught Carrollton Covered Bridge.webp" alt="The Carrollton Covered Bridge, photo by Janna Vaught" >}}
-{{< /full-screen-image >}}
-
-{{< full-screen-background color="#FFDE59" >}}
-Photo by Janna Vaught
-{{< /full-screen-background >}}
-
-{{< full-screen-background color="#FFDE59" >}}
-{{< columns count=2 >}}
-{{< column >}}
-{{< spacer >}}
-{{< intro >}}
-Discover and explore the Buckhannon & Tygart Valley River Water Trail, a 45-mile water trail in north-central WV, offering outstanding scenic and recreational opportunities! 
-{{< /intro >}}
-Two rivers. Two cities. Two counties. One trail. The Buckhannon & Tygart Valley River Water Trail flows through peaceful landscapes, quiet meanders, and mature forested landscapes, as well as communities rich in history, including two historic covered bridges. Wildlife is plentiful along the entire waterway. The region is rich in social, cultural, and historical heritage. There are a few short sections of Class I/II water for more experienced paddlers to explore. The trail begins near the community of Sago in Upshur County and ends near Arden in Barbour County. The trail flows through the cities of Buckhannon and Philippi.
-{{< /column >}}
-{{< column >}}
-{{< spacer 5 >}}
-{{< img src="/img/Water Trail Logo-no-background.webp" alt="BTV River Water Trail logo featuring a long-legged bird on a branch overhanging a river with greenery on the other side of the river." >}}
-{{< /column >}}
-{{< /columns >}}
-{{< /full-screen-background >}}
-
 {{< full-screen-image src="/img/cropped-Buckhannon Halloween Paddle 2024 4.webp" alt="An adult and child paddle during the Buckhannon Halloween Paddle 2024 with a bridge in the distance." >}}
 {{< /full-screen-image >}}
+
+<!-- {{< full-screen-image src="/img/Janna Vaught Carrollton Covered Bridge.webp" alt="The Carrollton Covered Bridge, photo by Janna Vaught" >}} -->
+<!-- {{< /full-screen-image >}} -->
+
+<!-- Photo by Janna Vaught -->
 
 {{< columns count=2 >}}
 {{< column >}}

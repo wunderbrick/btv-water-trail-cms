@@ -3,7 +3,7 @@
 # Add custom assets relative to /static or via https
 logo_on_white: "/img/Water Trail Logo-no-background.webp"
 logo_on_black: "/img/Water Trail Logo-no-background.webp"
-custom_js: [ ]
+custom_js: [ "/js/main.js" ]
 custom_css: [ "/css/styles.css" ]
 
 ######################## custom config ####################

@@ -8,11 +8,11 @@ https://github.com/sytranvn/hugo-pdf/tree/master - MIT
 * TODO
 - alt tags
 - accessibility checkup
-- more images for specific events?
 - donations
 - contact form - which email address should messages go to?
-- responsive footer is hiding links
+- responsive footer is hiding links (seems to be a theme issue)
 - add responsive title for main page
+- no-script for carousel
 
 * webp
 find . -type f \( -iname '*.png' -o -iname '*.HEIC' -o -iname '*.jpg' -o -iname '*.jpeg' \) -exec sh -c 'cwebp -quiet "$1" -o "${1%.*}.webp"' _ {} \;

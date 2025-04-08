@@ -177,6 +177,8 @@ Carousel
   color: white;
   cursor: pointer;
   text-align: center;
+  /*For mobile Safari */
+  padding: 0;
 }
 
 #button-next {
@@ -191,6 +193,8 @@ Carousel
   color: white;
   cursor: pointer;
   text-align: center;
+  /*For mobile Safari */
+  padding: 0;
 }
 
 #carousel-header {

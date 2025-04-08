@@ -32,11 +32,6 @@ Two rivers. Two cities. Two counties. One trail. The Buckhannon & Tygart Valley 
 {{< /column >}}
 {{< /columns >}}
 
-{{< full-screen-image src="/img/cropped-Buckhannon Halloween Paddle 2024 4.webp" alt="An adult and child paddle during the Buckhannon Halloween Paddle 2024 with a bridge in the distance." >}}
-{{< /full-screen-image >}}
-
-{{< spacer 70 >}}
-
 {{< carousel id="main-page-carousel" src="/img/carousel/1.webp" height="100vh">}}{{< /carousel >}}
 
 {{% screen-reader-only %}}

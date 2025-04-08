@@ -18,6 +18,9 @@ keywords:
 
 # Events
 
+## Schedule
+{{< img src="/img/Event-Dates-2025.webp" alt="2025 Paddle Events: May 24th is the Jack Barker Memorial Fun Paddle & Race at Buckhannon Riverwalk Park; June 1st is the Blue & Grey Paddle at Philippi Covered Bridge; August 2nd is the Lurchfest Paddle at Philippi Covered Bridge; August 23rd is the Buckhannon Riverfest at Buckhannon Riverwalk Park." >}}
+
 ## Jack Barker Memorial Race & Fun Paddle
 The Jack Barker Memorial Fun Paddle & Race is an annual kick off celebration that marks the beginning of summer. Held each May, paddlers and families gather at Buckhannon Riverwalk to enjoy a day on the water. This event has a long history and has been held as part of the WV Strawberry Festival for decades. The event honors the life and legacy of Jack Barker, an avid canoe paddler, national caliber racer and champion, and lover of the Buckhannon River. This event is organized by the Buckhannon River Watershed Association.
 

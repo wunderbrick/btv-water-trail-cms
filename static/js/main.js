@@ -29,7 +29,7 @@ const carouselContentText = new Map([
   
   [7, 
     // Note: I trimmed this down from the original text while preserving meaning and intent so it wouldn't overflow on mobile.
-    "Slow down, relax, and soak in the scenery. Life along the river is an ever changing play: breezes flow through the tree and brush across your skin, sunlight changes as clouds dance overhead, sounds echo as birds call out and wildlife splashes in the water. The BTV Water Trail wants you to enjoy the peaceful setting and preserve and protect these unique rivers and habitats."]
+    "Slow down, relax, and soak in the scenery. Life along the river is an ever changing play: breezes flow through the trees and brush across your skin, sunlight changes as clouds dance overhead, sounds echo as birds call and wildlife splashes in the water. The BTV Water Trail wants you to enjoy the peaceful setting and protect these unique rivers and habitats."]
 ]);
 
 function setCarouselContentOnLoad(){

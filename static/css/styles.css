@@ -176,6 +176,7 @@ Carousel
   font-weight: bold;
   color: white;
   cursor: pointer;
+  text-align: center;
 }
 
 #button-next {
@@ -189,6 +190,7 @@ Carousel
   font-weight: bold;
   color: white;
   cursor: pointer;
+  text-align: center;
 }
 
 #carousel-header {

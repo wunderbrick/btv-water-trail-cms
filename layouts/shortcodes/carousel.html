@@ -1,12 +1,12 @@
 <div aria-hiden="true" id={{.Get "id"}} class="carousel" style="background-image:url('{{ .Get "src" }}'); height:{{ .Get "height" }};" alt={{ .Get "alt" }}>
-    <button id="button-prev" class="carousel-button" onclick="prevImage()"><</button>
+    <button id="button-prev" onclick="prevImage()"><</button>
     <div style="flex-grow: 1;" class="bleed-container wrap"> 
       <div class="bleed-content">
       <div id="carousel-header" class="intro carousel-header"></div> 
        <div id="carousel-content" class="intro carousel-content"> {{ .Inner }} </div>
       </div>
     </div>
-    <button id="button-next" class="carousel-button" onclick="nextImage()">></button>
+    <button id="button-next" onclick="nextImage()">></button>
 </div>
 
 
